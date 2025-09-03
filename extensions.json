@@ -1394,6 +1394,9 @@
     "repository": "https://github.com/tomblind/local-lua-debugger-vscode",
     "prepublish": "npm run build"
   },
+  "TomsMartinez.localhost-browser"{
+    "repository": "https://github.com/tomblind/local-lua-debugger-vscode",
+  },
   "tombonnike.vscode-status-bar-format-toggle": {
     "repository": "https://github.com/Tom-Bonnike/vscode-formatting-toggle"
   },
